@@ -1,0 +1,1 @@
+C:\Users\zacar\OneDrive\Documentos\DotNet\CRUDReactMVC\crudreactmvc.client\obj\Debug\crudreactmvc.client.esproj.CoreCompileInputs.cache
